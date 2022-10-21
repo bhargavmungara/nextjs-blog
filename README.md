@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Blog app created by Next Js and uses Static site rendering. 
+
+Takes the files by Node filesystem
